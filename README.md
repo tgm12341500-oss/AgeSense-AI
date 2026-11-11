@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/AgeSense%20AI_%20Real-Time%20Insights.png"
+       alt="AgeSense AI Project Cover"
+       width="100%">
+</p>
 # AgeSense — Intelligent Real-Time Facial Age & Gender Estimation
 
 ### Bringing Computer Vision and On-Device Artificial Intelligence into a Seamless Mobile Experience.
