@@ -238,6 +238,7 @@ AgeSense represents the integration of several important areas of software devel
 | Model Family | MobileNetV3 |
 | Development Focus | Real-Time Facial Analysis |
 | Academic Evaluation | Excellent |
+|Role   | Team Leader (7- Member Team ) |
 
 ---
 
